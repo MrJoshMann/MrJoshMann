@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cyber security projects
 - 📫 How to reach me https://www.linkedin.com/in/josh-holden-794649300/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can grind rails on a snowboard
+- ⚡ Fun fact: I can build a computer from scratch
 
 <!---
 MrJoshMann/MrJoshMann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
